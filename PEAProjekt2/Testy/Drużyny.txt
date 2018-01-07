@@ -1,0 +1,35 @@
+Koszyk 1 (Mistrzowie 8 krajów z najlepszym współczynnikiem UEFA)
+Real Madrid (ESP, holders) coefficient 176.999
+Bayern München (GER) 154.899
+Juventus (ITA) 140.666
+Benfica (POR) 111.866
+Chelsea (ENG) 106.192
+Shakhtar Donetsk (UKR) 87.526
+Monaco (FRA) 62.333
+Spartak Moskva (RUS) 18.606
+
+Pozostałe koszyki:
+Barcelona (ESP) 151.999
+Atlético Madrid (ESP) 142.999
+Paris Saint-Germain (FRA) 126.333
+Borussia Dortmund (GER) 124.899
+Sevilla (ESP) 112.999
+Manchester City (ENG) 100.192
+Porto (POR) 98.866
+Manchester United (ENG) 95.192
+Napoli (ITA) 88.666
+Tottenham Hotspur (ENG) 77.192
+Basel (SUI) 74.415
+Olympiacos (GRE) 64.580
+Anderlecht (BEL) 58.840
+Liverpool (ENG) 56.192
+Roma (ITA) 53.666
+Beşiktaş (TUR) 45.840
+Celtic (SCO) 42.785
+CSKA Moskva (RUS) 39.606
+Sporting CP (POR) 36.866
+APOEL (CYP) 26.210
+Feyenoord (NED) 23.212
+Maribor (SVN) 21.125
+Qarabağ (AZE) 18.050
+RB Leipzig (GER) 15.899
